@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://github.com/festoug/festoug1/assets/103335071/1641fb1e-cb8a-4427-bb64-3fd727151200"  />
+  <img height="500" src="https://github.com/festoug/festoug1/assets/103335071/1641fb1e-cb8a-4427-bb64-3fd727151200"  />
 </div>
 
 ###
